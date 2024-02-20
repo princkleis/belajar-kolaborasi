@@ -1,3 +1,1 @@
-# belajar-kolaborasi  
-halo  
-aku ale
+# belajar-kolaborasi
